@@ -2,10 +2,10 @@
 # IT Service Management Analytics & Process Improvement
 
 ## 1. Project Overview
--This independent portfolio project analyzes fictional IT support incidents to understand incident trends, resolution performance, and SLA compliance.
+- This independent portfolio project analyzes fictional IT support incidents to understand incident trends, resolution performance, and SLA compliance.
 
 ## 2. Business Problem
--IT support teams need to understand which incident categories occur most often, how efficiently tickets are resolved, and whether service-level targets are being met.
+- IT support teams need to understand which incident categories occur most often, how efficiently tickets are resolved, and whether service-level targets are being met.
 
 ## 3. Project Objectives
 - Analyze incident volume and trends.
